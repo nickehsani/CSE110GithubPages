@@ -82,6 +82,7 @@ I talk more about my preferred programming languages in my [README](README.md).
 > Design of Boolean logic and finite state machines; two-level, multilevel combinational logic design, combinational modules and modular networks, Mealy and Moore machines, analysis and synthesis of canonical forms, sequential modules.
 - CSE 140L - Digital Systems Laboratory
 > Implementation with computer-aided design tools for combinational logic minimization and state machine synthesis. Hardware construction of a small digital system.
+
 ### Goals
 - [x] Do more leetcode
 - [ ] Interview practice
