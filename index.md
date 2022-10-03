@@ -70,7 +70,7 @@ module HELLO_WORLD();
   end
 endmodule
 ```
-I talk more about my preferred programming languages in my [README](/README.md).
+I talk more about my preferred programming languages in my [README](README.md).
 
 ### Coursework
 **FALL QUARTER 2022**
