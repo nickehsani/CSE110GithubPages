@@ -70,7 +70,7 @@ module HELLO_WORLD();
   end
 endmodule
 ```
-I talk more about my preferred programming languages in my [README](docs/README.md).
+I talk more about my preferred programming languages in my [README](/README.md).
 
 ### Coursework
 **FALL QUARTER 2022**
@@ -89,6 +89,6 @@ I talk more about my preferred programming languages in my [README](docs/README.
 - [ ] Work on side projects
 - [ ] Go to the San Diego Zoo
 ### Contact me!
-[Instagram](https://www.instagram.com/niick_e/)
-Email: niehsani@ucsd.edu
+[Instagram](https://www.instagram.com/niick_e/)\
+Email: niehsani@ucsd.edu\
 Phone: (863) 430-4811
